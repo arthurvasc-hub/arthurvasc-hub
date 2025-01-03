@@ -6,6 +6,7 @@
 📫 You can reach me at:  
    **LinkedIn**: [arthur-vasc](https://www.linkedin.com/in/arthur-vasc)  
    **Email**: arthurvasc2@gmail.com
+
 ⚡ Fun fact: When I’m not coding, I’m probably playing **futevôlei**, improving my tech skills, or grinding in **Valorant**.  
 
 [PT/BR]
