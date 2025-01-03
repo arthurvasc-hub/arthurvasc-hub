@@ -6,7 +6,6 @@
 📫 You can reach me at:  
    **LinkedIn**: [arthur-vasc](https://www.linkedin.com/in/arthur-vasc)  
    **Email**: arthurvasc2@gmail.com
-😄 Pronouns: **He/Him**  
 ⚡ Fun fact: When I’m not coding, I’m probably playing **futevôlei**, improving my tech skills, or grinding in **Valorant**.  
 
 [PT/BR]
@@ -18,6 +17,5 @@
 💞️ Busco colaborar em **projetos Java**, **desafios back-end** ou qualquer coisa que empurre os limites do desenvolvimento web.  
 📫 Pode me encontrar em:  
    **LinkedIn**: [arthur-vasc](https://www.linkedin.com/in/arthur-vasc)  
-   **Email**: arthurvasc2@gmail.com 
-😄 Pronomes: **Ele/Dele**  
+   **Email**: arthurvasc2@gmail.com   
 ⚡ Curiosidade: Quando não estou programando, provavelmente estou jogando **futevôlei**, aprimorando minhas habilidades técnicas ou jogando **Valorant**.  
