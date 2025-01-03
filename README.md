@@ -4,9 +4,8 @@
 👀 Interested in **APIs**, **microservices**, and anything that makes the web tick.  
 💞️ Looking to collaborate on **Java projects**, **back-end challenges**, or anything that pushes the limits of web development.  
 📫 You can reach me at:  
-   **LinkedIn**: [arthur-vasc](https://www.linkedin.com/in/arthur-vasc)  
-   **Email**: arthurvasc2@gmail.com
-
+   **LinkedIn**: [arthurvasc](https://www.linkedin.com/in/arthurvasc/)  
+   **Email**: arthurvasc2@gmail.com 
 ⚡ Fun fact: When I’m not coding, I’m probably playing **futevôlei**, improving my tech skills, or grinding in **Valorant**.  
 
 [PT/BR]
@@ -17,6 +16,6 @@
 👀 Me interesso por **APIs**, **microserviços** e tudo o que faz a web funcionar.  
 💞️ Busco colaborar em **projetos Java**, **desafios back-end** ou qualquer coisa que empurre os limites do desenvolvimento web.  
 📫 Pode me encontrar em:  
-   **LinkedIn**: [arthur-vasc](https://www.linkedin.com/in/arthur-vasc)  
+   **LinkedIn**: [arthurvasc](https://www.linkedin.com/in/arthurvasc/c)  
    **Email**: arthurvasc2@gmail.com   
 ⚡ Curiosidade: Quando não estou programando, provavelmente estou jogando **futevôlei**, aprimorando minhas habilidades técnicas ou jogando **Valorant**.  
