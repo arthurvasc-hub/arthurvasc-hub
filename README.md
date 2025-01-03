@@ -7,7 +7,7 @@
    **LinkedIn**: [arthurvasc](https://www.linkedin.com/in/arthurvasc/)  
    **Email**: arthurvasc2@gmail.com 
 
-⚡ Fun fact: When I’m not coding, I’m probably playing **futevôlei**, improving my tech skills, or grinding in **Valorant**.  
+
 
 [PT/BR]
 
@@ -19,4 +19,4 @@
 📫 Pode me encontrar em:  
    **LinkedIn**: [arthurvasc](https://www.linkedin.com/in/arthurvasc/c)  
    **Email**: arthurvasc2@gmail.com   
-⚡ Curiosidade: Quando não estou programando, provavelmente estou jogando **futevôlei**, aprimorando minhas habilidades técnicas ou jogando **Valorant**.  
+
